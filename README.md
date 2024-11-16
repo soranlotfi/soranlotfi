@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-
-**soranlotfi/soranlotfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
 Introduction<br>Hello! I'm Soran Lotfi, a passionate front-end developer specializing in React.js with a growing interest in Next.js. When I'm not coding, you'll find me tackling exciting programming challenges or collaborating with fellow developers.<br><br>My Journey<br>With a background in front-end development, I've spent the past year honing my skills at Birkar Systems Company. During this time, I've gained valuable experience working with popular UI libraries like Tailwind CSS and Material-UI (MUI).<br><br>My Tech Stack<br>• Front-end Frameworks: React.js | Next.js (currently learning) • UI Libraries: Tailwind CSS | MUI • Tools: VSCode | Git | npm<br><br>Projects & Contributions<br>While I don't have many public repositories yet, I'm actively working on some exciting projects. Keep an eye out for:<br><br>• A responsive e-commerce website using React and Tailwind CSS • A dashboard application built with Next.js and MUI<br><br>What I'm Passionate About<br>• Continuous Learning: I believe in staying ahead of the curve in the ever-evolving world of front-end development. • Clean Code: I'm passionate about writing maintainable, efficient, and well-documented code. • User Experience: I strive to create intuitive interfaces that enhance user engagement.<br><br>My Approach to Development<br>I thrive in environments where collaboration meets innovation. Whether it's brainstorming design solutions or debugging tricky issues, I love being part of a team that pushes boundaries.
 
 
